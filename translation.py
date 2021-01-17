@@ -4,7 +4,9 @@ class Translation(object):
 ☛ URL with Custom Thumbnail Support..
 
 ☛ Send - url | New Name.Extension
-                   
+ 
+   *You must subscribe our channel in order to use me😇 My Updates Channel : @VKPROJECTS
+                  
 ☛ /help for more details..."""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -56,7 +58,7 @@ Expires on: Untill my death ☭"""
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     INVALID_UPLOAD_BOT_URL_FORMAT = "URL format is incorrect. make sure your url starts with either http:// or https://. You can set custom file name using the format link | file_name.extension"
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/FFMpegRoBot"
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/"
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
